@@ -17,4 +17,3 @@ package ru.job4j.calculator;
             System.out.println(fourTimeTwo);
         }
     }
-
